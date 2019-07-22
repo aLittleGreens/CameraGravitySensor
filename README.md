@@ -9,5 +9,5 @@
 
 ![image](https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif?raw=true)
 
-![image](https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif?raw=true)
+![image](https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif?raw=true)
 
