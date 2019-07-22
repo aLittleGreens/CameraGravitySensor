@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTransparent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item><!--模糊-->
+        <!-- Note that we use the base animation style here (that is no
+             animations) because we really have no idea how this kind of
+             activity will be used. -->
+        <!--不设置activity进入和退出动画样式-->
+        <item name="android:windowAnimationStyle">@null</item>
+        <!--设置状态栏的背景为半透明-->
+        <item name="android:windowTranslucentStatus">true</item>
+
+    </style>
+
+
+    <style name="detail_dialog">
+        <!-- 设置未浮动窗口 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置无边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置完全透明 -->
+        <item name="android:windowBackground">@color/colorTransparent_15</item>
+        <!-- 设置屏幕变暗 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="DialogFullScreen" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+         设置屏幕变暗
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+</resources>
