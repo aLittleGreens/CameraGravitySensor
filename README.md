@@ -4,3 +4,6 @@
 ![image](https://github.com/aLittleGreens/CameraGravitySensor/tree/master/app/src/screencap/camera.gif?raw=true)
 
 ![image](https://github.com/aLittleGreens/CameraGravitySensor/tree/master/app/src/screencap/camera.gif?raw=true)
+
+
+https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif
