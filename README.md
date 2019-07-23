@@ -10,6 +10,5 @@
 ## 相机界面是固定的竖屏显示，配置界面随重力感应可以360旋转
 
 <center class="half">
-    <img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif"  width="300">
-    <img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif"  width="300">
+<img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif"  width="300"><img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif"  width="300">
 </center>
