@@ -14,5 +14,5 @@
 
 
 <center class="half">
-    <img src="![image](https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif?raw=true)" width="200"/><img src="![image](https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif?raw=true)" width="200"/>
+    <img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif)" width="200"/><img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif)" width="200"/>
 </center>
