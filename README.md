@@ -13,6 +13,7 @@
 
 
 
-<center class="half">
-    <img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif)" width="200"/><img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif)" width="200"/>
-</center>
+<figure class="half">
+    <img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera.gif">
+    <img src="https://github.com/aLittleGreens/CameraGravitySensor/blob/master/app/src/screencap/camera1.gif">
+</figure>
